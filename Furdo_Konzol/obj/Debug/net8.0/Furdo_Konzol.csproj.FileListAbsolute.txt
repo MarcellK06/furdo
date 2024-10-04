@@ -1,0 +1,15 @@
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.AssemblyInfoInputs.cache
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.AssemblyInfo.cs
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.csproj.CoreCompileInputs.cache
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.sourcelink.json
+/workspaces/furdo/Furdo_Konzol/bin/Debug/net8.0/Furdo_Konzol
+/workspaces/furdo/Furdo_Konzol/bin/Debug/net8.0/Furdo_Konzol.deps.json
+/workspaces/furdo/Furdo_Konzol/bin/Debug/net8.0/Furdo_Konzol.runtimeconfig.json
+/workspaces/furdo/Furdo_Konzol/bin/Debug/net8.0/Furdo_Konzol.dll
+/workspaces/furdo/Furdo_Konzol/bin/Debug/net8.0/Furdo_Konzol.pdb
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.dll
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/refint/Furdo_Konzol.dll
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.pdb
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/Furdo_Konzol.genruntimeconfig.cache
+/workspaces/furdo/Furdo_Konzol/obj/Debug/net8.0/ref/Furdo_Konzol.dll
